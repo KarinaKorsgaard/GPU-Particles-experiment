@@ -1,0 +1,10 @@
+u_gravity
+u_drag
+u_wind
+sad
+happy
+focus
+u_size
+sad_rand
+happy_rand
+focus_rand

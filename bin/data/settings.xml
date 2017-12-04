@@ -1,0 +1,13 @@
+<group>
+	<u_gravity>0</u_gravity>
+	<u_drag>0.15</u_drag>
+	<u_wind>0</u_wind>
+	<sad>2.45</sad>
+	<happy>0</happy>
+	<focus>0</focus>
+	<u_size>0.95</u_size>
+	<sad_rand>1.2</sad_rand>
+	<happy_rand>2.275</happy_rand>
+	<focus_rand>0</focus_rand>
+<group/>
+</group>
